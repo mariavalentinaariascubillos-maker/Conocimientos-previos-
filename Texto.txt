@@ -1,0 +1,3 @@
+Buenos días, 
+
+En la prueba me sentí confundida ya que algunas funciones no las conocía como la de "valor >= minimo && valor <= maximo;" que investigue donde puedo hacer los limites puestos en la tabla de los rangos de notas, no lo complete pues no sabia bien como relacionar los datos, según eso que funciones usar para generar. 
